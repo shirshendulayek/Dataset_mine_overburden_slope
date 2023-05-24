@@ -2,6 +2,8 @@
 
 To evaluate slope stability, many researchers have introduced methods that employ Artificial Intelligence (AI), which includes techniques like Machine Learning (ML) and Deep Learning (DL). Also, pattern recognition methods are applied to the analysis of slope stability (Ogila, 2021). Few researchers have used ML to evaluate slope stability by relying on databases of information about slopes (Karir et al., 2022; Lin et al., 2021). However, there is an overall lack of a bias-free dataset with varied geometrical and geotechnical parameters of coal mine slopes for stability analysis. A new dataset is created using existing literature work (based on the dump slope stability analysis of coal mines around the world.  The dataset ican be found in this repository. This dataset is genrated for ML/DL applications from the following articles:
 
+
+
 Amarsaikhan, T., Shimada, H., Wahyudi, S., Sasaoka, T., Hamanaka, A., Amarsaikhan, T., Shimada, H., Wahyudi, S., Sasaoka, T., & Hamanaka, A. (2018). Optimization of Dump Bench Configuration to Improve Waste Dump Capacity of Narynsukhait Open Pit Coal Mine. International Journal of Geosciences, 9(6), 379–396. https://doi.org/10.4236/IJG.2018.96024
 
 Banarjee, L., & Chawla, S. (2017). A Finite Element Approach of Stability Analysis of Over Burden Dump Slope - A Case Study. Indian Geotechnical Conference 2017 GeoNEst. https://www.researchgate.net/publication/335606923_A_Finite_Element_Approach_of_Stability_Analysis_of_Over_Burden_Dump_Slope_-_A_Case_Study
