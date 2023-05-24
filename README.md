@@ -1,6 +1,6 @@
 # Dataset OF mine overburden slope stability analysis
 
-Many researchers have used Artificial Intelligence (AI) techniques like Machine Learning (ML) and Deep Learning (DL) to evaluate slope stability. Pattern recognition methods are also applied to the analysis of slope stability . However, there is a lack of a bias-free dataset with varied geometrical and geotechnical parameters of coal mine slopes for stability analysis. A new dataset is created using existing literature work based on the dump slope stability analysis of coal mines around the world . You can find this dataset in the current web page context.. This dataset is genrated for ML/DL applications using following articles:
+The dataset created using existing literature work based on the dump slope stability analysis of coal mines around the world. This dataset is genrated for ML/DL applications using following articles:
 
 
 
