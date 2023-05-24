@@ -1,6 +1,6 @@
 # Dataset OF mine overburden slope stability analysis
 
-The dataset created using existing literature work based on the dump slope stability analysis of coal mines around the world. This dataset is genrated for ML/DL applications using following articles:
+The dataset was created using existing literature work based on the dump slope stability analysis of coal mines. The dataset was generated for ML/DL applications using the following articles:
 
 
 
